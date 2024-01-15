@@ -2,7 +2,7 @@
 This Github repository contains projects related to prediction with Random Forest Classifier. Exploring Insights/Inferences by performing EDA on the given project data (Company Sales)
 Prediction with Random Forest Classifier
 Projects:
-Project 1: Prediction about the segment or attributes causes high sale in the company. Project 2: Prediction of the fraud check data.
+Project 1: Prediction about the segment or attributes causes high sale in the company.
 
 Objectives:
 Exploring Insights/Inferences by performing EDA on the given data. Relevant graphs were plotted to get some insights on data using seaborn package. Model fitting via Random Forest Classifier by Importing sklearn package.
